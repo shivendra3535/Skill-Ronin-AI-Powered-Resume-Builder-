@@ -3,7 +3,7 @@
 
 
 
-Serives / Modules :
+Services / Modules :
 
 User-Service: https://github.com/shivendra3535/User-Service
 
